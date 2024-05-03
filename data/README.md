@@ -1,1 +1,0 @@
-# Predicting-Big-Tech-Stocks
